@@ -18,6 +18,4 @@
 
 ***
 
-<p align="center">
-  <img src="https://i.ibb.co/mV7b3tGG/will-wood-mr-capgras.gif" height="200" style="display: block; margin: 0 auto;">
-</p>
+<img width="498" height="87" alt="image" src="https://github.com/user-attachments/assets/0bda86f3-7c9a-44b4-a35f-04b4384429a9" />
