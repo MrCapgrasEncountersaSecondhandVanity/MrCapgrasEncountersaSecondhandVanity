@@ -18,6 +18,6 @@
 
 ***
 
-<div align="center">
-  <img src="https://i.ibb.co/mV7b3tGG/will-wood-mr-capgras.gif" width="300" alt="Will Wood Mr Capgras GIF">
-</div>
+<p align="center">
+  <img src="https://i.ibb.co/mV7b3tGG/will-wood-mr-capgras.gif" height="200" style="display: block; margin: 0 auto;">
+</p>
