@@ -28,7 +28,7 @@
 <details>
   <summary>
     <font face="Courier New" color="#ff0000" size="2">
-      Нажми на меня (маленький текст)
+      bombobmbmom
     </font>
   </summary>
   <br>
