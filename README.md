@@ -38,7 +38,7 @@
      <br>- spam follower (maybe) 
      <br>- just for fun!
     <br><br>
-    ask me about mr capgras x marvel. its my au. and sign BOTH of my atabooks if u want pls.. and check guns.lol! it have all links for my social media. 
+    ask me about mr capgras x marvel. its my au. and sign BOTH of my atabooks if u want pls.. and check guns.lol! it have all links for my social media. AND PLEASE READ MY MAIN GH.  
   </font>
 </details>
 </div>
