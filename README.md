@@ -8,6 +8,13 @@
 
 <p align="center">
   <a href="https://mrcapgras.atabook.org/">
-    <img src="https://i.ibb.co/5XXSbRsp/cd1004bf74bffe26d98d21ea7f21c1ba-Photoroom.jpg" width="200" alt="Кликни меня">
+    <img src="https://i.ibb.co/5XXSbRsp/cd1004bf74bffe26d98d21ea7f21c1ba-Photoroom.jpg" width="200" style="margin-right: 20px;" alt="Atabook">
   </a>
+  <a href="https://secondhandvanity.straw.page/">
+    <img src="https://i.ibb.co/spz1XJPV/200b32eed2659d5bed220b20f897098a-1-Photoroom.jpg" width="200" alt="StrawPage">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/Z7yVVrpy2iIAAAAC/will-wood-mr-capgras.gif" width="300" alt="Will Wood Mr Capgras GIF">
 </p>
