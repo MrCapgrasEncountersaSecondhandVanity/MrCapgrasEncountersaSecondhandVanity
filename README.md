@@ -39,7 +39,7 @@
   </summary>
   <br>
   <font face="Verdana" color="#55acee">
-    i have a hyperfix on mr. capgras, its not "creepy". i respect wills boundaries. i make this account as a
+    i have a hyperfix on mr. capgras, its not "creepy". i respect wills boundaries. i made this account for a
      <br>- spam follower (maybe) 
      <br>- just for fun!
     <br><br>
