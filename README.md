@@ -19,6 +19,6 @@
 ***
 
 
-<p align="center">
+<div align="center">
   <img src="https://i.ibb.co/mV7b3tGG/will-wood-mr-capgras.gif" width="300" alt="Will Wood Mr Capgras GIF">
-</p>
+</div>
