@@ -28,11 +28,14 @@
 <details>
   <summary>
     <font face="Courier New" color="#000000" size="1">
-      bombobmbmom
+      click on me...
     </font>
   </summary>
   <br>
   <font face="Verdana" color="#55acee">
-    2323232323222
+    i have a hyperfix on mr. capgras, its not "creepy". i respect wills boundaries. i make this account as a
+     - spam follower (maybe) 
+     - just for fun!
+    ask me about mr capgras x marvel. its my au. and sing ata pls.. and check guns.lol! it have all links for my social media. 
   </font>
 </details>
