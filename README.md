@@ -1,5 +1,6 @@
 <p align="center">
-  <span style="color: black;">main @harveywatch222r</span>
+  <span style="color: black;">Ready in your head and fed upon your memoirs
+</span>
 </p>
 
 <p align="center">
