@@ -26,8 +26,13 @@
 ***
 
 <details>
-  <summary>Skin stealer sh</summary>
-  <div align="center">
-    <img src="https://i.ibb.co" height="200" alt="Will Wood Mr Capgras GIF">
-  </div>
+  <summary>
+    <font face="Courier New" color="#ff0000" size="2">
+      Нажми на меня (маленький текст)
+    </font>
+  </summary>
+  <br>
+  <font face="Verdana" color="#55acee">
+    2323232323222
+  </font>
 </details>
