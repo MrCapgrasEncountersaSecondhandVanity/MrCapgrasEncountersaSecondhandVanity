@@ -27,7 +27,7 @@
 
 <details>
   <summary>
-    <font face="Courier New" color="#ff0000" size="2">
+    <font face="Courier New" color="#ff0000" size="1">
       bombobmbmom
     </font>
   </summary>
