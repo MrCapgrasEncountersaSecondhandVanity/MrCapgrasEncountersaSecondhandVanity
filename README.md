@@ -19,6 +19,6 @@
 ***
 
 
-<div align="center">
-  <img src="https://media.tenor.com/Z7yVVrpy2iIAAAAC/will-wood-mr-capgras.gif" width="300" alt="Will Wood Mr Capgras GIF">
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/Z7yVVrpy2iIAAAAC/will-wood-mr-capgras.gif" alt="Will Wood Mr Capgras GIF">
+</p>
