@@ -34,7 +34,7 @@
 <details>
   <summary>
     <font face="Courier New" color="#000000" size="1">
-      click on me...
+      What you feel and what you do, are those things really you?
     </font>
   </summary>
   <br>
