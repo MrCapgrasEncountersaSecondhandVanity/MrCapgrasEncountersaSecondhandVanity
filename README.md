@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/b5c69569-c377-4144-a1b8-a9edd4e2cf3f" />
+  <img src="https://i.pinimg.com/736x/6b/58/88/6b58883d85e5b59e0030fdf3dab675d4.jpg" alt="Will Wood">
 </p>
 
 <p align="center">
