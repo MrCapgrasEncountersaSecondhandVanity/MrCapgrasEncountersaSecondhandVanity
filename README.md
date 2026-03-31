@@ -42,7 +42,8 @@
      <br>- spam follower (maybe) 
      <br>- just for fun!
     <br><br>
-    ask me about mr capgras x marvel. its my au. and sign BOTH of my atabooks if u want pls.. and check guns.lol! it have all links for my social media. AND PLEASE READ MY MAIN GH.  
+    ask me about mr capgras x marvel. its my au. and sign BOTH of my atabooks if u want pls.. and check guns.lol! it have all links for my social media. AND PLEASE READ MY MAIN GH. 
+    ty deepseek for help with github ❤️ /hj
   </font>
 </details>
 </div>
