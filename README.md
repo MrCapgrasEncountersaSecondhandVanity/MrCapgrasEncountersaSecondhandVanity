@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrCapgrasEncountersaSecondhandVanity&color=000000&label=clones" alt="Счетчик просмотров профиля GitHub">
-
+  <img src="https://komarev.com/ghpvc/?username=MrCapgrasEncountersaSecondhandVanity&color=000000&label=clones&base=0" alt="...">
 
 <p align="center">
   <a href="https://mrcapgras.atabook.org/">
