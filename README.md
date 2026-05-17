@@ -48,4 +48,3 @@
 </details>
 </div>
 
-# I WILL NOT ANSWER IN ATABOOK, BECAUSE AGAIN MY VPN ISNT WORKING. but i still can see what u writing to me
